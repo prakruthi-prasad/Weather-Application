@@ -39,6 +39,11 @@ h1 {
     margin-bottom: 16px;
 }
 
+.about {
+    font-size: 19px;
+    margin-bottom: 10px;
+}
+
 header a {
     color: #221f1f;
     margin-right: 16px;
